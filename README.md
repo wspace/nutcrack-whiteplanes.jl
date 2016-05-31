@@ -1,4 +1,5 @@
-# Whiteplanes
+# Whiteplanes.jl
+[![Build Status](https://travis-ci.org/whiteplanes/whiteplanes.jl.svg?branch=master)](https://travis-ci.org/whiteplanes/whiteplanes.jl)
 
 Whiteplane is a whitespace interpreter writen in Julia.
 
